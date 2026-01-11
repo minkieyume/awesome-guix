@@ -75,6 +75,7 @@ Software
 - [dariqq/guix-surface](https://codeberg.org/Dariqq/guix-surface): Implemenation of linux-surface for GNU Guix
 - [kolev/guix-channel](https://codeberg.org/kolev/guix-channel): Channel for Chromebook audio configuration and SUPDUP.
 - [ROCKTAKEY/roquix](https://github.com/ROCKTAKEY/roquix): Roquix guix channel
+- [chiko-guix-channel](https://github.com/minkieyume/chiko-guix-channel): Minkie Chiko's guix channel
 
 If you are looking for a package index:
 
